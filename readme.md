@@ -18,3 +18,20 @@ The game is not complete and is missing a lot of features as we got interrupted 
 
 ![Intro](imgs/hush-intro.png)
 ![Gameplay](imgs/hush-preview.gif)
+
+## 2D Platformer
+
+This is a small proof of concept with several mechanics for a small 2D platformer. The game was developed in Java using the LibGDX framework.
+
+Mechanics:
+* Collision
+* Gravity
+* Jumping/Movement
+
+## MU Puzzle Game
+
+## The Hound
+
+## The Hound 2
+
+## NonGuiTheHound
