@@ -8,7 +8,7 @@ import com.mygdx.game.Utilities;
 public class DesktopLauncher {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
-		config.title="The Hound";
+		config.title="Hush";
 		config.width= Utilities.getScreenSize().width;
 		config.height=Utilities.getScreenSize().height;
 		new LwjglApplication(new Application(), config);
